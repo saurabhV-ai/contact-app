@@ -1,0 +1,15 @@
+{
+  "contacts": [
+    {
+      "id": "45a66cc9-0233-4d5e-840a-49fdbc3469a4",
+      "name": "Saurabh the great!",
+      "email": "saurabhvibhute.sv@gmail.com"
+    },
+    {
+      "id": "3e791a99-34af-4003-a836-fead0ebeb2a5",
+      "name": "saurabh vibhute",
+      "email": "saurabhvibhute.sv@gmail.com",
+      "redirect": false
+    }
+  ]
+}
